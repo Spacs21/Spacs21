@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Spacs21
-- 👀 I’m interested in Web-Developing
-- 🌱 I’m currently learning Front-End
-- 💞️ I’m looking to collaborate on idk yet
-- 📫 How to reach me telegram @LunarFlare1
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Idk
+-  Hi, I’m Bekzod
+-  I’m interested in Web-Developing
+-  I’m currently learning Front-End
+-  How to reach me: telegram @LunarFlare1
 
 <!---
 Spacs21/Spacs21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
